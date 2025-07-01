@@ -9,17 +9,23 @@
 
 ### ✅ 今日の成果
 *   oh my logoを実行してみた
-*   .cursorrulesの更新
+*   .cursorrulesの更新-AIの５原則を追加してみた
 *   JavaScriptの絵本
 
 ### 💡 学びと発見
 *   .cursorrulesはYAML形式
 *   ターミナル環境によって、実行結果が左右されることがある（今回のロゴの色表示など）
+*   oh my logoにもclaude.mdが入っていた！
 
-### 📝 振り返り
-*   
+###　✍️ 学んだこと
+*   y/nとは：
+    - y = yes（はい）
+    - n = no（いいえ）
+    - コンピューターでよく使われる確認応答の略語
+*   .cursorrulesはYAML形式
 
-### 🤔 明日の目標
+
+### 📝 明日やること
 *   絵本進める
 *   Xcodeのやつ使ってみる
 
