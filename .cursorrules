@@ -20,3 +20,6 @@ every_chat:
   output_format: "[main_output]"
 
   numbering: "#[n] times. # n = increment each chat, end line, etc (#1, #2...)"
+
+## 週間サマリー
+- 土曜日始まりで作成する
