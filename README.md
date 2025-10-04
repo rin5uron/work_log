@@ -33,17 +33,15 @@
 
 - **101日目以降の学び**
   - [`study_web2`](https://github.com/rin5uron/study_web2)：101日目からの学び
-     - 技術学習記録 (study_technical.md)
-     - エラー解決記録 (study_errors.md)
-     - プロジェクト一覧 (dev_url_projects.md)
-     - 開発手法・テンプレート (dev_process.md)
-     - エンジニア像・目標 (dev_vision.md)
+     - [プロジェクト一覧](https://github.com/rin5uron/study_web2/blob/main/note/dev/dev_url_projects.md) (dev_url_projects.md)
+      - プロジェクト詳細は各リポジトリやディレクトリのREADMEに記載
 
 ### 🎮 実践プロジェクト
 - [`myplayground`](https://github.com/rin5uron/myplayground)：実験・技術検証プロジェクト
-- [`counterapp-collection`](https://github.com/rin5uron/counterapp-collection)：JavaScriptアプリ実践
 - [`it-terms-lab`](https://github.com/rin5uron/it-terms-lab)：IT用語実践学習
 - [`itwords`](https://github.com/rin5uron/itwords)：IT用語サイト運営
+- [`fe-study`](https://github.com/rin5uron/fe-study)：基本情報技術者試験学習記録
+- [`nextjs_practice`](https://github.com/rin5uron/nextjs_practice)：Next.js学習記録
 
 ### 📋 学習計画・目標管理
 - **`goals/learning_roadmap.md`**：201-300日間の学習ロードマップ
